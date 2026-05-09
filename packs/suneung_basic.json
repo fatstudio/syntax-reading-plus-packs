@@ -1,0 +1,2211 @@
+{
+  "id": "suneung_basic",
+  "title": "수능 필수 구문",
+  "description": "수능 영어 독해 구문 모음",
+  "category": "수능",
+  "level": "basic",
+  "version": 1,
+  "updatedAt": "2026-05-09",
+  "items": [
+    {
+      "id": "suneung_basic_0001",
+      "title": "가주어 It 구문",
+      "pattern": "It is + 형용사 + to부정사",
+      "mainSentence": "It is important to understand the structure of a sentence.",
+      "translation": "문장의 구조를 이해하는 것은 중요하다.",
+      "explanation": "It은 가주어이고 to understand 이하가 진주어입니다.",
+      "grammar": "It is + adj + to V",
+      "examples": [
+        {
+          "sentence": "It is difficult to solve this problem.",
+          "translation": "이 문제를 푸는 것은 어렵다.",
+          "note": "to solve this problem이 진주어입니다."
+        }
+      ],
+      "tags": [
+        "가주어",
+        "to부정사",
+        "수능"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0002",
+      "title": "It takes 시간 to부정사",
+      "pattern": "It takes + 시간 + to부정사",
+      "mainSentence": "It takes courage to admit a mistake.",
+      "translation": "실수를 인정하는 데에는 용기가 필요하다.",
+      "explanation": "It은 가주어이고 to admit a mistake가 진주어이며, take는 시간이 들다 또는 필요하다는 뜻입니다.",
+      "grammar": "It takes + time/effort + to V",
+      "examples": [
+        {
+          "sentence": "It took two hours to finish the report.",
+          "translation": "그 보고서를 끝내는 데 두 시간이 걸렸다.",
+          "note": "to finish the report가 실제 주어 역할을 합니다."
+        }
+      ],
+      "tags": [
+        "가주어",
+        "take",
+        "to부정사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0003",
+      "title": "It seems that 구문",
+      "pattern": "It seems that + 주어 + 동사",
+      "mainSentence": "It seems that many students prefer online lectures.",
+      "translation": "많은 학생들이 온라인 강의를 선호하는 것 같다.",
+      "explanation": "It seems that은 ~인 것 같다는 추측을 나타냅니다.",
+      "grammar": "It seems/appears that S + V",
+      "examples": [
+        {
+          "sentence": "It appears that the plan worked well.",
+          "translation": "그 계획이 잘 작동한 것 같다.",
+          "note": "that절 전체가 seems의 내용입니다."
+        }
+      ],
+      "tags": [
+        "추측",
+        "that절",
+        "수능"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0004",
+      "title": "It is said that 구문",
+      "pattern": "It is said that + 주어 + 동사",
+      "mainSentence": "It is said that habits shape our future.",
+      "translation": "습관이 우리의 미래를 만든다고들 한다.",
+      "explanation": "It is said that은 일반적으로 ~라고 말해진다는 수동 표현입니다.",
+      "grammar": "It is said/believed/reported that S + V",
+      "examples": [
+        {
+          "sentence": "It is believed that sleep improves memory.",
+          "translation": "수면이 기억력을 향상시킨다고 여겨진다.",
+          "note": "말하는 주체가 중요하지 않을 때 자주 씁니다."
+        }
+      ],
+      "tags": [
+        "수동태",
+        "that절",
+        "전달표현"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0005",
+      "title": "There is 구문",
+      "pattern": "There is/are + 명사",
+      "mainSentence": "There are many ways to reduce stress.",
+      "translation": "스트레스를 줄이는 방법은 많다.",
+      "explanation": "There is/are는 존재를 나타내며 뒤의 명사가 실제 주어입니다.",
+      "grammar": "There + be + N",
+      "examples": [
+        {
+          "sentence": "There is a simple reason for the result.",
+          "translation": "그 결과에는 단순한 이유가 있다.",
+          "note": "a simple reason이 실제 의미상의 주어입니다."
+        }
+      ],
+      "tags": [
+        "존재구문",
+        "there",
+        "be동사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0006",
+      "title": "There seems to be 구문",
+      "pattern": "There seems to be + 명사",
+      "mainSentence": "There seems to be a misunderstanding between them.",
+      "translation": "그들 사이에 오해가 있는 것 같다.",
+      "explanation": "There seems to be는 ~이 있는 것 같다는 뜻입니다.",
+      "grammar": "There seems/appears to be + N",
+      "examples": [
+        {
+          "sentence": "There appears to be no clear answer.",
+          "translation": "명확한 답이 없는 것 같다.",
+          "note": "존재와 추측이 결합된 표현입니다."
+        }
+      ],
+      "tags": [
+        "존재구문",
+        "추측",
+        "there"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0007",
+      "title": "That 명사절 주어",
+      "pattern": "That + 주어 + 동사 + 동사",
+      "mainSentence": "That he kept his promise impressed everyone.",
+      "translation": "그가 약속을 지켰다는 것이 모두에게 깊은 인상을 주었다.",
+      "explanation": "That절이 문장의 주어 역할을 합니다.",
+      "grammar": "That S + V + V",
+      "examples": [
+        {
+          "sentence": "That she passed the exam surprised us.",
+          "translation": "그녀가 시험에 합격했다는 것이 우리를 놀라게 했다.",
+          "note": "That she passed the exam 전체가 주어입니다."
+        }
+      ],
+      "tags": [
+        "명사절",
+        "that절",
+        "주어"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0008",
+      "title": "Whether 명사절",
+      "pattern": "whether + 주어 + 동사",
+      "mainSentence": "Whether the plan will succeed depends on our effort.",
+      "translation": "그 계획이 성공할지는 우리의 노력에 달려 있다.",
+      "explanation": "whether절은 ~인지 아닌지라는 뜻으로 명사 역할을 합니다.",
+      "grammar": "whether S + V",
+      "examples": [
+        {
+          "sentence": "I do not know whether he will agree.",
+          "translation": "나는 그가 동의할지 모르겠다.",
+          "note": "whether절이 know의 목적어입니다."
+        }
+      ],
+      "tags": [
+        "명사절",
+        "whether",
+        "간접의문"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0009",
+      "title": "What 명사절",
+      "pattern": "what + 주어 + 동사",
+      "mainSentence": "What matters most is your attitude.",
+      "translation": "가장 중요한 것은 너의 태도이다.",
+      "explanation": "what은 선행사를 포함한 관계대명사로 ~하는 것이라고 해석합니다.",
+      "grammar": "what S + V = the thing(s) which S + V",
+      "examples": [
+        {
+          "sentence": "What she said was true.",
+          "translation": "그녀가 말한 것은 사실이었다.",
+          "note": "what은 the thing which의 의미입니다."
+        }
+      ],
+      "tags": [
+        "what",
+        "명사절",
+        "관계대명사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0010",
+      "title": "관계대명사 who",
+      "pattern": "사람 선행사 + who + 동사",
+      "mainSentence": "Students who read regularly build strong vocabulary.",
+      "translation": "규칙적으로 읽는 학생들은 탄탄한 어휘력을 기른다.",
+      "explanation": "who는 사람을 선행사로 받아 뒤에서 설명합니다.",
+      "grammar": "N(person) + who + V",
+      "examples": [
+        {
+          "sentence": "A teacher who listens well can change students.",
+          "translation": "잘 들어 주는 교사는 학생들을 변화시킬 수 있다.",
+          "note": "who listens well이 teacher를 수식합니다."
+        }
+      ],
+      "tags": [
+        "관계대명사",
+        "who",
+        "수식"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0011",
+      "title": "관계대명사 which",
+      "pattern": "사물 선행사 + which + 동사",
+      "mainSentence": "The device which measures air quality is easy to use.",
+      "translation": "공기 질을 측정하는 그 장치는 사용하기 쉽다.",
+      "explanation": "which는 사물이나 동물을 선행사로 받습니다.",
+      "grammar": "N(thing) + which + V",
+      "examples": [
+        {
+          "sentence": "I found a website which explains grammar clearly.",
+          "translation": "나는 문법을 명확하게 설명하는 웹사이트를 찾았다.",
+          "note": "which절이 website를 꾸밉니다."
+        }
+      ],
+      "tags": [
+        "관계대명사",
+        "which",
+        "수식"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0012",
+      "title": "관계대명사 that",
+      "pattern": "선행사 + that + 불완전한 절",
+      "mainSentence": "The advice that he gave me was useful.",
+      "translation": "그가 내게 해 준 조언은 유용했다.",
+      "explanation": "that은 사람과 사물 모두에 쓰이며 관계절 안에서 주어나 목적어 역할을 합니다.",
+      "grammar": "N + that + S + V",
+      "examples": [
+        {
+          "sentence": "This is the only book that I brought.",
+          "translation": "이것은 내가 가져온 유일한 책이다.",
+          "note": "the only, all, 최상급 뒤에서 that이 자주 쓰입니다."
+        }
+      ],
+      "tags": [
+        "관계대명사",
+        "that",
+        "수식"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0013",
+      "title": "관계부사 where",
+      "pattern": "장소 선행사 + where + 완전한 절",
+      "mainSentence": "This is the place where I first met my mentor.",
+      "translation": "이곳은 내가 처음으로 나의 멘토를 만난 장소이다.",
+      "explanation": "where는 장소를 나타내는 선행사를 뒤에서 설명합니다.",
+      "grammar": "place + where + S + V",
+      "examples": [
+        {
+          "sentence": "The library where we studied was quiet.",
+          "translation": "우리가 공부했던 도서관은 조용했다.",
+          "note": "where절은 완전한 문장 구조를 가집니다."
+        }
+      ],
+      "tags": [
+        "관계부사",
+        "where",
+        "장소"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0014",
+      "title": "관계부사 when",
+      "pattern": "시간 선행사 + when + 완전한 절",
+      "mainSentence": "I remember the day when we solved the problem together.",
+      "translation": "나는 우리가 함께 그 문제를 해결했던 날을 기억한다.",
+      "explanation": "when은 시간을 나타내는 선행사를 설명합니다.",
+      "grammar": "time + when + S + V",
+      "examples": [
+        {
+          "sentence": "There are moments when silence is better than words.",
+          "translation": "말보다 침묵이 더 나은 순간들이 있다.",
+          "note": "when절이 moments를 수식합니다."
+        }
+      ],
+      "tags": [
+        "관계부사",
+        "when",
+        "시간"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0015",
+      "title": "계속적 용법 which",
+      "pattern": "문장, which + 동사",
+      "mainSentence": "He missed the deadline, which disappointed his team.",
+      "translation": "그는 마감일을 놓쳤고, 그것은 그의 팀을 실망시켰다.",
+      "explanation": "콤마 뒤의 which는 앞 절 전체를 받을 수 있습니다.",
+      "grammar": "S + V, which + V",
+      "examples": [
+        {
+          "sentence": "She won the prize, which surprised everyone.",
+          "translation": "그녀가 상을 받았고, 그것은 모두를 놀라게 했다.",
+          "note": "which가 앞 문장 전체를 가리킵니다."
+        }
+      ],
+      "tags": [
+        "관계대명사",
+        "계속적용법",
+        "which"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0016",
+      "title": "전치사 + 관계대명사",
+      "pattern": "전치사 + which/whom + 주어 + 동사",
+      "mainSentence": "The topic about which we talked was climate change.",
+      "translation": "우리가 이야기했던 주제는 기후 변화였다.",
+      "explanation": "관계절 안의 전치사가 관계대명사 앞으로 이동할 수 있습니다.",
+      "grammar": "prep + which/whom + S + V",
+      "examples": [
+        {
+          "sentence": "The person to whom I sent the email replied quickly.",
+          "translation": "내가 이메일을 보낸 사람이 빠르게 답장했다.",
+          "note": "to whom은 격식 있는 표현입니다."
+        }
+      ],
+      "tags": [
+        "관계대명사",
+        "전치사",
+        "격식"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0017",
+      "title": "복합관계대명사 whoever",
+      "pattern": "whoever + 동사",
+      "mainSentence": "Whoever wants to improve must practice every day.",
+      "translation": "향상하고 싶은 사람은 누구든 매일 연습해야 한다.",
+      "explanation": "whoever는 anyone who의 뜻으로 명사절 또는 부사절을 이끕니다.",
+      "grammar": "whoever + V = anyone who + V",
+      "examples": [
+        {
+          "sentence": "Give this ticket to whoever needs it.",
+          "translation": "이 표가 필요한 누구에게든 그것을 주어라.",
+          "note": "whoever needs it이 전치사 to의 목적어입니다."
+        }
+      ],
+      "tags": [
+        "복합관계대명사",
+        "whoever",
+        "명사절"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0018",
+      "title": "복합관계대명사 whatever",
+      "pattern": "whatever + 주어 + 동사",
+      "mainSentence": "You can choose whatever you like.",
+      "translation": "너는 네가 좋아하는 것은 무엇이든 고를 수 있다.",
+      "explanation": "whatever는 anything that 또는 no matter what의 뜻입니다.",
+      "grammar": "whatever S + V",
+      "examples": [
+        {
+          "sentence": "Whatever happens, stay calm.",
+          "translation": "무슨 일이 일어나더라도 침착해라.",
+          "note": "양보의 의미로 쓰였습니다."
+        }
+      ],
+      "tags": [
+        "복합관계대명사",
+        "whatever",
+        "양보"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0019",
+      "title": "However 양보 구문",
+      "pattern": "however + 형용사/부사 + 주어 + 동사",
+      "mainSentence": "However hard the task is, we should not give up.",
+      "translation": "그 일이 아무리 어렵더라도 우리는 포기해서는 안 된다.",
+      "explanation": "however는 아무리 ~하더라도라는 양보 의미를 만듭니다.",
+      "grammar": "However + adj/adv + S + V",
+      "examples": [
+        {
+          "sentence": "However carefully you plan, unexpected things may happen.",
+          "translation": "네가 아무리 신중하게 계획하더라도 예상치 못한 일이 생길 수 있다.",
+          "note": "however carefully는 부사 carefully를 강조합니다."
+        }
+      ],
+      "tags": [
+        "양보",
+        "however",
+        "복합관계부사"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0020",
+      "title": "비교급 than",
+      "pattern": "비교급 + than",
+      "mainSentence": "Experience is often more valuable than theory.",
+      "translation": "경험은 종종 이론보다 더 가치 있다.",
+      "explanation": "두 대상을 비교할 때 비교급과 than을 함께 씁니다.",
+      "grammar": "comparative + than",
+      "examples": [
+        {
+          "sentence": "This question is easier than the last one.",
+          "translation": "이 문제는 지난번 문제보다 더 쉽다.",
+          "note": "easier가 easy의 비교급입니다."
+        }
+      ],
+      "tags": [
+        "비교급",
+        "than",
+        "비교"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0021",
+      "title": "원급 비교 as as",
+      "pattern": "as + 형용사/부사 + as",
+      "mainSentence": "Reading is as important as listening in language learning.",
+      "translation": "언어 학습에서 읽기는 듣기만큼 중요하다.",
+      "explanation": "as 원급 as는 ~만큼 ...하다는 동등 비교입니다.",
+      "grammar": "as + adj/adv + as",
+      "examples": [
+        {
+          "sentence": "She runs as fast as her brother.",
+          "translation": "그녀는 오빠만큼 빨리 달린다.",
+          "note": "fast는 원급 그대로 씁니다."
+        }
+      ],
+      "tags": [
+        "원급비교",
+        "as",
+        "비교"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0022",
+      "title": "부정 원급 비교",
+      "pattern": "not as/so + 형용사/부사 + as",
+      "mainSentence": "The test was not as difficult as I expected.",
+      "translation": "그 시험은 내가 예상했던 것만큼 어렵지 않았다.",
+      "explanation": "not as as는 ~만큼 ...하지 않다는 뜻입니다.",
+      "grammar": "not as/so + adj/adv + as",
+      "examples": [
+        {
+          "sentence": "This movie is not as long as that one.",
+          "translation": "이 영화는 저 영화만큼 길지 않다.",
+          "note": "두 대상의 정도 차이를 나타냅니다."
+        }
+      ],
+      "tags": [
+        "원급비교",
+        "부정",
+        "비교"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0023",
+      "title": "The 비교급, the 비교급",
+      "pattern": "The + 비교급, the + 비교급",
+      "mainSentence": "The more you practice, the more confident you become.",
+      "translation": "더 많이 연습할수록 더 자신감이 생긴다.",
+      "explanation": "두 변화가 함께 진행됨을 나타내며 ~할수록 더 ...하다고 해석합니다.",
+      "grammar": "The + comparative S + V, the + comparative S + V",
+      "examples": [
+        {
+          "sentence": "The earlier you start, the better the result will be.",
+          "translation": "더 일찍 시작할수록 결과는 더 좋아질 것이다.",
+          "note": "두 절 모두 비교급으로 시작합니다."
+        }
+      ],
+      "tags": [
+        "비교급",
+        "상관구문",
+        "수능"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0024",
+      "title": "비교급 강조",
+      "pattern": "much/even/far/still + 비교급",
+      "mainSentence": "This method is much more effective than the old one.",
+      "translation": "이 방법은 예전 방법보다 훨씬 더 효과적이다.",
+      "explanation": "much, even, far, still은 비교급을 강조합니다.",
+      "grammar": "much/even/far/still + comparative",
+      "examples": [
+        {
+          "sentence": "The second explanation was even clearer.",
+          "translation": "두 번째 설명은 훨씬 더 명확했다.",
+          "note": "very는 비교급 앞에서 쓰지 않습니다."
+        }
+      ],
+      "tags": [
+        "비교급",
+        "강조",
+        "수능"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0025",
+      "title": "One of the 최상급",
+      "pattern": "one of the + 최상급 + 복수명사",
+      "mainSentence": "Exercise is one of the best ways to reduce stress.",
+      "translation": "운동은 스트레스를 줄이는 가장 좋은 방법들 중 하나이다.",
+      "explanation": "여러 대상 중 하나를 말하므로 복수명사를 씁니다.",
+      "grammar": "one of the + superlative + plural N",
+      "examples": [
+        {
+          "sentence": "She is one of the most talented students in our class.",
+          "translation": "그녀는 우리 반에서 가장 재능 있는 학생들 중 한 명이다.",
+          "note": "students처럼 복수명사가 와야 합니다."
+        }
+      ],
+      "tags": [
+        "최상급",
+        "one of",
+        "복수명사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0026",
+      "title": "No more than 구문",
+      "pattern": "no more than + 수량",
+      "mainSentence": "The speech lasted no more than five minutes.",
+      "translation": "그 연설은 겨우 5분밖에 지속되지 않았다.",
+      "explanation": "no more than은 겨우, 단지라는 제한의 의미입니다.",
+      "grammar": "no more than + number/N",
+      "examples": [
+        {
+          "sentence": "He had no more than ten dollars.",
+          "translation": "그는 겨우 10달러밖에 가지고 있지 않았다.",
+          "note": "only와 비슷한 의미입니다."
+        }
+      ],
+      "tags": [
+        "비교",
+        "no more than",
+        "수량"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0027",
+      "title": "No less than 구문",
+      "pattern": "no less than + 수량",
+      "mainSentence": "No less than one hundred people joined the campaign.",
+      "translation": "무려 100명의 사람들이 그 캠페인에 참여했다.",
+      "explanation": "no less than은 무려라는 강조의 의미입니다.",
+      "grammar": "no less than + number/N",
+      "examples": [
+        {
+          "sentence": "The project took no less than three years.",
+          "translation": "그 프로젝트는 무려 3년이나 걸렸다.",
+          "note": "수량이 많음을 강조합니다."
+        }
+      ],
+      "tags": [
+        "비교",
+        "no less than",
+        "강조"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0028",
+      "title": "Not so much A as B",
+      "pattern": "not so much A as B",
+      "mainSentence": "Success depends not so much on talent as on effort.",
+      "translation": "성공은 재능이라기보다는 노력에 달려 있다.",
+      "explanation": "A라기보다는 B라는 의미로 B를 강조합니다.",
+      "grammar": "not so much A as B",
+      "examples": [
+        {
+          "sentence": "He is not so much a leader as a supporter.",
+          "translation": "그는 지도자라기보다는 조력자이다.",
+          "note": "뒤의 B에 의미의 초점이 있습니다."
+        }
+      ],
+      "tags": [
+        "비교",
+        "상관구문",
+        "수능"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0029",
+      "title": "Would rather A than B",
+      "pattern": "would rather + 동사원형 + than + 동사원형",
+      "mainSentence": "I would rather walk than wait for the bus.",
+      "translation": "나는 버스를 기다리느니 차라리 걷겠다.",
+      "explanation": "두 선택 중 A를 더 선호한다는 표현입니다.",
+      "grammar": "would rather V than V",
+      "examples": [
+        {
+          "sentence": "She would rather stay home than go out.",
+          "translation": "그녀는 외출하느니 차라리 집에 있겠다.",
+          "note": "rather 뒤에는 동사원형이 옵니다."
+        }
+      ],
+      "tags": [
+        "선호",
+        "would rather",
+        "비교"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0030",
+      "title": "Prefer A to B",
+      "pattern": "prefer + A + to + B",
+      "mainSentence": "Many students prefer examples to long explanations.",
+      "translation": "많은 학생들은 긴 설명보다 예시를 선호한다.",
+      "explanation": "prefer A to B는 B보다 A를 더 좋아한다는 뜻입니다.",
+      "grammar": "prefer A to B",
+      "examples": [
+        {
+          "sentence": "I prefer reading books to watching videos.",
+          "translation": "나는 영상을 보는 것보다 책 읽는 것을 선호한다.",
+          "note": "to는 비교의 전치사이므로 뒤에 명사나 동명사가 옵니다."
+        }
+      ],
+      "tags": [
+        "선호",
+        "prefer",
+        "동명사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0031",
+      "title": "Used to 동사원형",
+      "pattern": "used to + 동사원형",
+      "mainSentence": "People used to rely on letters to communicate.",
+      "translation": "사람들은 의사소통을 위해 편지에 의존하곤 했다.",
+      "explanation": "used to는 과거의 습관이나 상태를 나타냅니다.",
+      "grammar": "used to + V",
+      "examples": [
+        {
+          "sentence": "I used to play soccer after school.",
+          "translation": "나는 방과 후에 축구를 하곤 했다.",
+          "note": "현재는 그렇지 않을 수 있음을 암시합니다."
+        }
+      ],
+      "tags": [
+        "과거습관",
+        "used to",
+        "조동사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0032",
+      "title": "Be used to 동명사",
+      "pattern": "be used to + 명사/동명사",
+      "mainSentence": "She is used to studying late at night.",
+      "translation": "그녀는 밤늦게 공부하는 것에 익숙하다.",
+      "explanation": "be used to에서 to는 전치사이므로 뒤에 명사나 동명사가 옵니다.",
+      "grammar": "be used to + N/V-ing",
+      "examples": [
+        {
+          "sentence": "We are used to cold weather.",
+          "translation": "우리는 추운 날씨에 익숙하다.",
+          "note": "used to V와 구별해야 합니다."
+        }
+      ],
+      "tags": [
+        "숙어",
+        "be used to",
+        "동명사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0033",
+      "title": "Be used to 동사원형",
+      "pattern": "be used to + 동사원형",
+      "mainSentence": "This tool is used to measure distance.",
+      "translation": "이 도구는 거리를 측정하는 데 사용된다.",
+      "explanation": "be used to V는 ~하기 위해 사용되다는 수동 표현입니다.",
+      "grammar": "be used to + V",
+      "examples": [
+        {
+          "sentence": "Plastic bottles can be used to make clothes.",
+          "translation": "플라스틱 병은 옷을 만드는 데 사용될 수 있다.",
+          "note": "to부정사가 목적을 나타냅니다."
+        }
+      ],
+      "tags": [
+        "수동태",
+        "목적",
+        "used"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0034",
+      "title": "Too 형용사 to부정사",
+      "pattern": "too + 형용사/부사 + to부정사",
+      "mainSentence": "The text was too complex to understand quickly.",
+      "translation": "그 글은 너무 복잡해서 빨리 이해할 수 없었다.",
+      "explanation": "too ... to는 너무 ...해서 ~할 수 없다는 의미입니다.",
+      "grammar": "too + adj/adv + to V",
+      "examples": [
+        {
+          "sentence": "The box is too heavy to carry alone.",
+          "translation": "그 상자는 너무 무거워서 혼자 옮길 수 없다.",
+          "note": "부정 의미가 포함되어 있습니다."
+        }
+      ],
+      "tags": [
+        "to부정사",
+        "too to",
+        "결과"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0035",
+      "title": "Enough to부정사",
+      "pattern": "형용사/부사 + enough + to부정사",
+      "mainSentence": "The explanation was clear enough to follow.",
+      "translation": "그 설명은 따라갈 수 있을 만큼 충분히 명확했다.",
+      "explanation": "enough to는 ~할 만큼 충분히 ...하다는 의미입니다.",
+      "grammar": "adj/adv + enough + to V",
+      "examples": [
+        {
+          "sentence": "He is old enough to make his own decision.",
+          "translation": "그는 스스로 결정할 만큼 충분히 나이가 들었다.",
+          "note": "enough는 형용사 뒤에 옵니다."
+        }
+      ],
+      "tags": [
+        "to부정사",
+        "enough",
+        "정도"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0036",
+      "title": "So that 결과 구문",
+      "pattern": "so + 형용사/부사 + that + 주어 + 동사",
+      "mainSentence": "The story was so moving that I could not forget it.",
+      "translation": "그 이야기는 너무 감동적이어서 나는 그것을 잊을 수 없었다.",
+      "explanation": "so ... that은 너무 ...해서 ~하다는 결과를 나타냅니다.",
+      "grammar": "so + adj/adv + that S + V",
+      "examples": [
+        {
+          "sentence": "The room was so quiet that we could hear the clock.",
+          "translation": "그 방은 너무 조용해서 우리는 시계 소리를 들을 수 있었다.",
+          "note": "that절이 결과를 나타냅니다."
+        }
+      ],
+      "tags": [
+        "결과",
+        "so that",
+        "접속사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0037",
+      "title": "Such that 결과 구문",
+      "pattern": "such + a/an + 형용사 + 명사 + that",
+      "mainSentence": "It was such a useful book that I read it twice.",
+      "translation": "그것은 너무 유용한 책이라서 나는 두 번 읽었다.",
+      "explanation": "such ... that은 명사를 포함한 표현을 강조하며 결과를 나타냅니다.",
+      "grammar": "such + a/an + adj + N + that S + V",
+      "examples": [
+        {
+          "sentence": "She gave such a clear answer that everyone understood.",
+          "translation": "그녀는 너무 명확한 답을 해서 모두가 이해했다.",
+          "note": "such 뒤에는 명사구가 옵니다."
+        }
+      ],
+      "tags": [
+        "결과",
+        "such that",
+        "명사구"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0038",
+      "title": "So that 목적 구문",
+      "pattern": "so that + 주어 + can/may + 동사원형",
+      "mainSentence": "I wrote down the idea so that I could remember it later.",
+      "translation": "나는 나중에 그것을 기억할 수 있도록 그 생각을 적어 두었다.",
+      "explanation": "so that은 ~하기 위해서라는 목적을 나타낼 수 있습니다.",
+      "grammar": "so that S + can/could/may/might + V",
+      "examples": [
+        {
+          "sentence": "Speak clearly so that everyone can hear you.",
+          "translation": "모두가 네 말을 들을 수 있도록 분명히 말해라.",
+          "note": "조동사 can이 자주 함께 쓰입니다."
+        }
+      ],
+      "tags": [
+        "목적",
+        "so that",
+        "조동사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0039",
+      "title": "In order to 구문",
+      "pattern": "in order to + 동사원형",
+      "mainSentence": "We need evidence in order to support the claim.",
+      "translation": "우리는 그 주장을 뒷받침하기 위해 증거가 필요하다.",
+      "explanation": "in order to는 목적을 분명하게 나타내는 to부정사 표현입니다.",
+      "grammar": "in order to + V",
+      "examples": [
+        {
+          "sentence": "He saved money in order to buy a laptop.",
+          "translation": "그는 노트북을 사기 위해 돈을 모았다.",
+          "note": "to V보다 목적의 의미가 더 분명합니다."
+        }
+      ],
+      "tags": [
+        "목적",
+        "to부정사",
+        "in order to"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0040",
+      "title": "Because 절",
+      "pattern": "because + 주어 + 동사",
+      "mainSentence": "People remember stories because they connect facts with emotions.",
+      "translation": "사람들은 이야기가 사실과 감정을 연결하기 때문에 이야기를 기억한다.",
+      "explanation": "because 뒤에는 주어와 동사가 있는 절이 옵니다.",
+      "grammar": "because S + V",
+      "examples": [
+        {
+          "sentence": "I stayed home because it rained heavily.",
+          "translation": "비가 많이 와서 나는 집에 있었다.",
+          "note": "because of 뒤에는 명사구가 옵니다."
+        }
+      ],
+      "tags": [
+        "이유",
+        "because",
+        "접속사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0041",
+      "title": "Although 양보절",
+      "pattern": "although + 주어 + 동사",
+      "mainSentence": "Although the task was difficult, she completed it.",
+      "translation": "그 과제가 어려웠지만 그녀는 그것을 완수했다.",
+      "explanation": "although는 비록 ~이지만이라는 양보 의미를 나타냅니다.",
+      "grammar": "Although S + V, S + V",
+      "examples": [
+        {
+          "sentence": "Although he was tired, he kept studying.",
+          "translation": "그는 피곤했지만 계속 공부했다.",
+          "note": "although절과 but을 함께 쓰지 않습니다."
+        }
+      ],
+      "tags": [
+        "양보",
+        "although",
+        "접속사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0042",
+      "title": "Even if 양보절",
+      "pattern": "even if + 주어 + 동사",
+      "mainSentence": "Even if you fail once, you can learn from it.",
+      "translation": "한 번 실패하더라도 너는 그것으로부터 배울 수 있다.",
+      "explanation": "even if는 설령 ~하더라도라는 가정적 양보를 나타냅니다.",
+      "grammar": "Even if S + V, S + V",
+      "examples": [
+        {
+          "sentence": "Even if it rains, the event will continue.",
+          "translation": "비가 오더라도 행사는 계속될 것이다.",
+          "note": "실제로 일어날지 모르는 상황을 가정합니다."
+        }
+      ],
+      "tags": [
+        "양보",
+        "even if",
+        "접속사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0043",
+      "title": "Unless 조건절",
+      "pattern": "unless + 주어 + 동사",
+      "mainSentence": "Unless you review the lesson, you may forget it.",
+      "translation": "그 수업을 복습하지 않으면 너는 그것을 잊을 수도 있다.",
+      "explanation": "unless는 if not의 뜻으로 ~하지 않는다면이라고 해석합니다.",
+      "grammar": "Unless S + V, S + V",
+      "examples": [
+        {
+          "sentence": "You cannot improve unless you practice.",
+          "translation": "연습하지 않으면 너는 향상될 수 없다.",
+          "note": "unless는 이미 부정 의미를 포함합니다."
+        }
+      ],
+      "tags": [
+        "조건",
+        "unless",
+        "접속사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0044",
+      "title": "As soon as 시간절",
+      "pattern": "as soon as + 주어 + 동사",
+      "mainSentence": "As soon as the class ended, the students asked questions.",
+      "translation": "수업이 끝나자마자 학생들은 질문을 했다.",
+      "explanation": "as soon as는 ~하자마자라는 시간 관계를 나타냅니다.",
+      "grammar": "As soon as S + V, S + V",
+      "examples": [
+        {
+          "sentence": "Call me as soon as you arrive.",
+          "translation": "도착하자마자 나에게 전화해라.",
+          "note": "시간절에서는 미래 의미에도 현재시제를 씁니다."
+        }
+      ],
+      "tags": [
+        "시간절",
+        "as soon as",
+        "접속사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0045",
+      "title": "While 시간/대조절",
+      "pattern": "while + 주어 + 동사",
+      "mainSentence": "While I was reading, my phone kept ringing.",
+      "translation": "내가 읽고 있는 동안 내 휴대전화가 계속 울렸다.",
+      "explanation": "while은 ~하는 동안 또는 반면에라는 의미로 쓰입니다.",
+      "grammar": "While S + V, S + V",
+      "examples": [
+        {
+          "sentence": "Some people like silence, while others prefer music.",
+          "translation": "어떤 사람들은 침묵을 좋아하는 반면, 다른 사람들은 음악을 선호한다.",
+          "note": "여기서는 대조의 의미입니다."
+        }
+      ],
+      "tags": [
+        "시간절",
+        "대조",
+        "while"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0046",
+      "title": "Since 시간절",
+      "pattern": "since + 주어 + 과거동사",
+      "mainSentence": "I have kept a diary since I entered high school.",
+      "translation": "나는 고등학교에 입학한 이후로 일기를 써 왔다.",
+      "explanation": "since는 ~한 이후로라는 시작점을 나타내며 현재완료와 자주 쓰입니다.",
+      "grammar": "have/has p.p. + since S + past V",
+      "examples": [
+        {
+          "sentence": "She has lived here since she was ten.",
+          "translation": "그녀는 열 살 때부터 이곳에 살아 왔다.",
+          "note": "주절에는 현재완료가 자주 옵니다."
+        }
+      ],
+      "tags": [
+        "현재완료",
+        "since",
+        "시간절"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0047",
+      "title": "As long as 조건절",
+      "pattern": "as long as + 주어 + 동사",
+      "mainSentence": "You can borrow my notes as long as you return them tomorrow.",
+      "translation": "내일 돌려준다면 너는 내 필기를 빌려도 된다.",
+      "explanation": "as long as는 ~하는 한, ~하기만 하면이라는 조건을 나타냅니다.",
+      "grammar": "as long as S + V",
+      "examples": [
+        {
+          "sentence": "As long as you try, you have a chance.",
+          "translation": "네가 노력하는 한 너에게는 기회가 있다.",
+          "note": "조건을 제시합니다."
+        }
+      ],
+      "tags": [
+        "조건",
+        "as long as",
+        "접속사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0048",
+      "title": "Once 조건/시간절",
+      "pattern": "once + 주어 + 동사",
+      "mainSentence": "Once you understand the rule, the problem becomes easy.",
+      "translation": "그 규칙을 이해하면 그 문제는 쉬워진다.",
+      "explanation": "once는 일단 ~하면이라는 시간 또는 조건의 의미입니다.",
+      "grammar": "Once S + V, S + V",
+      "examples": [
+        {
+          "sentence": "Once the habit is formed, it is hard to change.",
+          "translation": "일단 습관이 형성되면 그것을 바꾸기는 어렵다.",
+          "note": "조건의 의미로 해석됩니다."
+        }
+      ],
+      "tags": [
+        "조건",
+        "시간절",
+        "once"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0049",
+      "title": "If 조건절",
+      "pattern": "if + 주어 + 현재동사, 주어 + will/can + 동사원형",
+      "mainSentence": "If you read the passage carefully, you will find the answer.",
+      "translation": "지문을 주의 깊게 읽으면 너는 답을 찾을 것이다.",
+      "explanation": "조건을 나타내는 if절에서는 미래 의미에도 현재시제를 씁니다.",
+      "grammar": "If S + present V, S + will/can + V",
+      "examples": [
+        {
+          "sentence": "If it rains tomorrow, we will stay inside.",
+          "translation": "내일 비가 오면 우리는 실내에 있을 것이다.",
+          "note": "if절의 rains는 현재형이지만 미래를 뜻합니다."
+        }
+      ],
+      "tags": [
+        "조건",
+        "if",
+        "시제"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0050",
+      "title": "가정법 과거",
+      "pattern": "If + 주어 + 과거동사, 주어 + would/could + 동사원형",
+      "mainSentence": "If I had more time, I would read more books.",
+      "translation": "내게 시간이 더 있다면 더 많은 책을 읽을 텐데.",
+      "explanation": "현재 사실과 반대되는 가정을 나타냅니다.",
+      "grammar": "If S + past V, S + would/could/might + V",
+      "examples": [
+        {
+          "sentence": "If I were you, I would ask for help.",
+          "translation": "내가 너라면 도움을 요청할 텐데.",
+          "note": "be동사는 were를 쓰는 것이 원칙입니다."
+        }
+      ],
+      "tags": [
+        "가정법",
+        "가정법과거",
+        "if"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0051",
+      "title": "가정법 과거완료",
+      "pattern": "If + 주어 + had p.p., 주어 + would have p.p.",
+      "mainSentence": "If she had left earlier, she would have caught the train.",
+      "translation": "그녀가 더 일찍 떠났더라면 기차를 탔을 텐데.",
+      "explanation": "과거 사실과 반대되는 가정을 나타냅니다.",
+      "grammar": "If S + had p.p., S + would/could/might have p.p.",
+      "examples": [
+        {
+          "sentence": "If I had known the truth, I would have acted differently.",
+          "translation": "내가 진실을 알았더라면 다르게 행동했을 텐데.",
+          "note": "과거에 실제로는 몰랐다는 뜻입니다."
+        }
+      ],
+      "tags": [
+        "가정법",
+        "과거완료",
+        "if"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0052",
+      "title": "I wish 가정법",
+      "pattern": "I wish + 주어 + 과거동사",
+      "mainSentence": "I wish I knew the answer.",
+      "translation": "내가 그 답을 안다면 좋을 텐데.",
+      "explanation": "현재 이루어지지 않은 소망을 나타낼 때 과거시제를 씁니다.",
+      "grammar": "I wish S + past V",
+      "examples": [
+        {
+          "sentence": "I wish I could speak English fluently.",
+          "translation": "내가 영어를 유창하게 말할 수 있다면 좋을 텐데.",
+          "note": "현재 능력에 대한 아쉬움을 나타냅니다."
+        }
+      ],
+      "tags": [
+        "가정법",
+        "wish",
+        "소망"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0053",
+      "title": "As if 가정법",
+      "pattern": "as if + 주어 + 과거동사",
+      "mainSentence": "He talks as if he knew everything.",
+      "translation": "그는 마치 모든 것을 아는 것처럼 말한다.",
+      "explanation": "as if는 마치 ~인 것처럼이라는 뜻이며 사실과 반대되는 느낌을 줄 수 있습니다.",
+      "grammar": "as if S + past V",
+      "examples": [
+        {
+          "sentence": "She looked as if she had seen a ghost.",
+          "translation": "그녀는 마치 유령을 본 것처럼 보였다.",
+          "note": "had p.p.는 주절보다 앞선 일을 나타냅니다."
+        }
+      ],
+      "tags": [
+        "가정법",
+        "as if",
+        "비유"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0054",
+      "title": "Without 가정법",
+      "pattern": "without + 명사, 주어 + would + 동사원형",
+      "mainSentence": "Without your advice, I would make the same mistake.",
+      "translation": "너의 조언이 없다면 나는 같은 실수를 할 텐데.",
+      "explanation": "without은 if it were not for 또는 if it had not been for의 의미로 쓰일 수 있습니다.",
+      "grammar": "Without N, S + would/could + V",
+      "examples": [
+        {
+          "sentence": "Without water, plants could not live.",
+          "translation": "물이 없다면 식물은 살 수 없을 것이다.",
+          "note": "현재 사실과 반대되는 조건입니다."
+        }
+      ],
+      "tags": [
+        "가정법",
+        "without",
+        "조건"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0055",
+      "title": "But for 가정법",
+      "pattern": "but for + 명사, 주어 + would have p.p.",
+      "mainSentence": "But for his help, we would have failed.",
+      "translation": "그의 도움이 없었더라면 우리는 실패했을 것이다.",
+      "explanation": "but for는 ~이 없었다면이라는 뜻으로 가정법 조건을 대신합니다.",
+      "grammar": "But for N, S + would/could have p.p.",
+      "examples": [
+        {
+          "sentence": "But for the map, I could not have found the place.",
+          "translation": "그 지도가 없었더라면 나는 그 장소를 찾을 수 없었을 것이다.",
+          "note": "과거 사실과 반대되는 가정입니다."
+        }
+      ],
+      "tags": [
+        "가정법",
+        "but for",
+        "조건"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0056",
+      "title": "Should have p.p.",
+      "pattern": "should have + 과거분사",
+      "mainSentence": "You should have checked the answer again.",
+      "translation": "너는 그 답을 다시 확인했어야 했다.",
+      "explanation": "과거에 하지 않은 일에 대한 후회나 유감을 나타냅니다.",
+      "grammar": "should have p.p.",
+      "examples": [
+        {
+          "sentence": "I should have listened to her advice.",
+          "translation": "나는 그녀의 조언을 들었어야 했다.",
+          "note": "실제로는 듣지 않았다는 뜻입니다."
+        }
+      ],
+      "tags": [
+        "조동사",
+        "후회",
+        "완료형"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0057",
+      "title": "May have p.p.",
+      "pattern": "may/might have + 과거분사",
+      "mainSentence": "He may have misunderstood the question.",
+      "translation": "그는 그 질문을 오해했을지도 모른다.",
+      "explanation": "과거 일에 대한 약한 추측을 나타냅니다.",
+      "grammar": "may/might have p.p.",
+      "examples": [
+        {
+          "sentence": "She might have left her phone at home.",
+          "translation": "그녀는 휴대전화를 집에 두고 왔을지도 모른다.",
+          "note": "확실하지 않은 과거 추측입니다."
+        }
+      ],
+      "tags": [
+        "조동사",
+        "추측",
+        "완료형"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0058",
+      "title": "Must have p.p.",
+      "pattern": "must have + 과거분사",
+      "mainSentence": "She must have practiced a lot.",
+      "translation": "그녀는 틀림없이 많이 연습했을 것이다.",
+      "explanation": "과거 일에 대한 강한 확신의 추측을 나타냅니다.",
+      "grammar": "must have p.p.",
+      "examples": [
+        {
+          "sentence": "He must have forgotten the appointment.",
+          "translation": "그는 틀림없이 그 약속을 잊었을 것이다.",
+          "note": "근거가 있는 강한 추측입니다."
+        }
+      ],
+      "tags": [
+        "조동사",
+        "강한추측",
+        "완료형"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0059",
+      "title": "Cannot have p.p.",
+      "pattern": "cannot/could not have + 과거분사",
+      "mainSentence": "The rumor cannot have been true.",
+      "translation": "그 소문이 사실이었을 리가 없다.",
+      "explanation": "과거 일에 대한 강한 부정 추측을 나타냅니다.",
+      "grammar": "cannot/could not have p.p.",
+      "examples": [
+        {
+          "sentence": "She could not have said such a thing.",
+          "translation": "그녀가 그런 말을 했을 리가 없다.",
+          "note": "강한 불가능성을 표현합니다."
+        }
+      ],
+      "tags": [
+        "조동사",
+        "부정추측",
+        "완료형"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0060",
+      "title": "Have to 동사원형",
+      "pattern": "have to + 동사원형",
+      "mainSentence": "We have to consider the environment when we make choices.",
+      "translation": "우리는 선택을 할 때 환경을 고려해야 한다.",
+      "explanation": "have to는 외부 상황에 따른 의무나 필요를 나타냅니다.",
+      "grammar": "have/has to + V",
+      "examples": [
+        {
+          "sentence": "You have to submit the form by Friday.",
+          "translation": "너는 금요일까지 그 양식을 제출해야 한다.",
+          "note": "must와 비슷하지만 필요의 느낌이 강합니다."
+        }
+      ],
+      "tags": [
+        "조동사표현",
+        "의무",
+        "have to"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0061",
+      "title": "Be able to 동사원형",
+      "pattern": "be able to + 동사원형",
+      "mainSentence": "Good readers are able to infer meanings from context.",
+      "translation": "좋은 독자들은 문맥에서 의미를 추론할 수 있다.",
+      "explanation": "be able to는 능력이나 가능을 나타냅니다.",
+      "grammar": "be able to + V",
+      "examples": [
+        {
+          "sentence": "He was able to fix the computer.",
+          "translation": "그는 그 컴퓨터를 고칠 수 있었다.",
+          "note": "특정 상황에서 실제로 해냈다는 의미가 날 수 있습니다."
+        }
+      ],
+      "tags": [
+        "능력",
+        "조동사표현",
+        "be able to"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0062",
+      "title": "Be likely to 동사원형",
+      "pattern": "be likely to + 동사원형",
+      "mainSentence": "People are likely to remember information linked to emotion.",
+      "translation": "사람들은 감정과 연결된 정보를 기억할 가능성이 높다.",
+      "explanation": "be likely to는 ~할 가능성이 높다는 뜻입니다.",
+      "grammar": "be likely to + V",
+      "examples": [
+        {
+          "sentence": "The price is likely to rise next year.",
+          "translation": "그 가격은 내년에 오를 가능성이 높다.",
+          "note": "가능성을 표현합니다."
+        }
+      ],
+      "tags": [
+        "가능성",
+        "be likely to",
+        "수능"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0063",
+      "title": "Be supposed to 동사원형",
+      "pattern": "be supposed to + 동사원형",
+      "mainSentence": "Students are supposed to respect different opinions.",
+      "translation": "학생들은 다른 의견을 존중해야 한다.",
+      "explanation": "be supposed to는 의무, 예정, 기대를 나타냅니다.",
+      "grammar": "be supposed to + V",
+      "examples": [
+        {
+          "sentence": "The meeting is supposed to start at nine.",
+          "translation": "그 회의는 9시에 시작될 예정이다.",
+          "note": "예정이나 규칙의 의미가 있습니다."
+        }
+      ],
+      "tags": [
+        "의무",
+        "예정",
+        "be supposed to"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0064",
+      "title": "Be willing to 동사원형",
+      "pattern": "be willing to + 동사원형",
+      "mainSentence": "A good leader is willing to listen to others.",
+      "translation": "좋은 지도자는 기꺼이 다른 사람들의 말을 들으려 한다.",
+      "explanation": "be willing to는 기꺼이 ~하려 하다는 의지를 나타냅니다.",
+      "grammar": "be willing to + V",
+      "examples": [
+        {
+          "sentence": "She is willing to help new students.",
+          "translation": "그녀는 신입생들을 기꺼이 도우려 한다.",
+          "note": "자발적인 의지를 나타냅니다."
+        }
+      ],
+      "tags": [
+        "의지",
+        "be willing to",
+        "to부정사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0065",
+      "title": "Be about to 동사원형",
+      "pattern": "be about to + 동사원형",
+      "mainSentence": "The train is about to leave.",
+      "translation": "그 기차는 막 떠나려 한다.",
+      "explanation": "be about to는 막 ~하려고 하다는 가까운 미래를 나타냅니다.",
+      "grammar": "be about to + V",
+      "examples": [
+        {
+          "sentence": "I was about to call you.",
+          "translation": "나는 막 너에게 전화하려던 참이었다.",
+          "note": "바로 직전의 상황을 나타냅니다."
+        }
+      ],
+      "tags": [
+        "미래",
+        "be about to",
+        "to부정사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0066",
+      "title": "Be worth 동명사",
+      "pattern": "be worth + 동명사",
+      "mainSentence": "This article is worth reading twice.",
+      "translation": "이 글은 두 번 읽을 가치가 있다.",
+      "explanation": "be worth 뒤에는 동명사가 오며 ~할 가치가 있다고 해석합니다.",
+      "grammar": "be worth + V-ing",
+      "examples": [
+        {
+          "sentence": "The museum is worth visiting.",
+          "translation": "그 박물관은 방문할 가치가 있다.",
+          "note": "worth 뒤에 to부정사를 쓰지 않습니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "worth",
+        "가치"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0067",
+      "title": "Cannot help 동명사",
+      "pattern": "cannot help + 동명사",
+      "mainSentence": "I cannot help smiling when I hear the song.",
+      "translation": "나는 그 노래를 들으면 웃지 않을 수 없다.",
+      "explanation": "cannot help V-ing는 ~하지 않을 수 없다는 의미입니다.",
+      "grammar": "cannot help + V-ing",
+      "examples": [
+        {
+          "sentence": "She could not help crying at the news.",
+          "translation": "그녀는 그 소식에 울지 않을 수 없었다.",
+          "note": "avoid의 의미가 아니라 자연스럽게 하게 된다는 뜻입니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "숙어",
+        "cannot help"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0068",
+      "title": "Feel like 동명사",
+      "pattern": "feel like + 동명사",
+      "mainSentence": "I feel like taking a short walk.",
+      "translation": "나는 짧은 산책을 하고 싶다.",
+      "explanation": "feel like V-ing는 ~하고 싶은 기분이다라는 뜻입니다.",
+      "grammar": "feel like + V-ing",
+      "examples": [
+        {
+          "sentence": "She did not feel like talking.",
+          "translation": "그녀는 말하고 싶은 기분이 아니었다.",
+          "note": "like 뒤에는 동명사가 옵니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "feel like",
+        "희망"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0069",
+      "title": "Look forward to 동명사",
+      "pattern": "look forward to + 동명사",
+      "mainSentence": "We look forward to meeting the author.",
+      "translation": "우리는 그 작가를 만나기를 고대한다.",
+      "explanation": "look forward to에서 to는 전치사이므로 뒤에 동명사가 옵니다.",
+      "grammar": "look forward to + V-ing",
+      "examples": [
+        {
+          "sentence": "I am looking forward to hearing from you.",
+          "translation": "당신의 연락을 고대하고 있습니다.",
+          "note": "to hear가 아니라 hearing을 씁니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "전치사to",
+        "숙어"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0070",
+      "title": "Spend 시간 동명사",
+      "pattern": "spend + 시간/돈 + 동명사",
+      "mainSentence": "He spends an hour reading English articles every day.",
+      "translation": "그는 매일 영어 기사를 읽는 데 한 시간을 쓴다.",
+      "explanation": "spend 뒤의 활동은 동명사로 표현합니다.",
+      "grammar": "spend + time/money + V-ing",
+      "examples": [
+        {
+          "sentence": "They spent the weekend cleaning the classroom.",
+          "translation": "그들은 주말을 교실 청소를 하며 보냈다.",
+          "note": "cleaning이 활동을 나타냅니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "spend",
+        "시간"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0071",
+      "title": "Have difficulty 동명사",
+      "pattern": "have difficulty/trouble + 동명사",
+      "mainSentence": "Many students have difficulty finding the main idea.",
+      "translation": "많은 학생들은 주제를 찾는 데 어려움을 겪는다.",
+      "explanation": "have difficulty 뒤에는 동명사가 오며 ~하는 데 어려움을 겪다는 뜻입니다.",
+      "grammar": "have difficulty/trouble + V-ing",
+      "examples": [
+        {
+          "sentence": "I had trouble understanding the diagram.",
+          "translation": "나는 그 도표를 이해하는 데 어려움을 겪었다.",
+          "note": "understanding이 동명사입니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "difficulty",
+        "숙어"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0072",
+      "title": "Prevent 목적어 from 동명사",
+      "pattern": "prevent + 목적어 + from + 동명사",
+      "mainSentence": "Regular exercise prevents stress from building up.",
+      "translation": "규칙적인 운동은 스트레스가 쌓이는 것을 막는다.",
+      "explanation": "prevent A from V-ing는 A가 ~하는 것을 막다는 뜻입니다.",
+      "grammar": "prevent O from + V-ing",
+      "examples": [
+        {
+          "sentence": "The rule prevents people from wasting water.",
+          "translation": "그 규칙은 사람들이 물을 낭비하는 것을 막는다.",
+          "note": "from 뒤에는 동명사가 옵니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "prevent",
+        "from"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0073",
+      "title": "Keep 목적어 from 동명사",
+      "pattern": "keep + 목적어 + from + 동명사",
+      "mainSentence": "Fear can keep people from trying new things.",
+      "translation": "두려움은 사람들이 새로운 것을 시도하지 못하게 할 수 있다.",
+      "explanation": "keep A from V-ing는 A가 ~하지 못하게 하다는 뜻입니다.",
+      "grammar": "keep O from + V-ing",
+      "examples": [
+        {
+          "sentence": "Heavy snow kept us from going outside.",
+          "translation": "폭설 때문에 우리는 밖에 나가지 못했다.",
+          "note": "방해의 의미를 나타냅니다."
+        }
+      ],
+      "tags": [
+        "동명사",
+        "keep from",
+        "방해"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0074",
+      "title": "Make 목적어 동사원형",
+      "pattern": "make + 목적어 + 동사원형",
+      "mainSentence": "The movie made us think about friendship.",
+      "translation": "그 영화는 우리에게 우정에 대해 생각하게 했다.",
+      "explanation": "사역동사 make는 목적어 뒤에 동사원형을 취합니다.",
+      "grammar": "make + O + V",
+      "examples": [
+        {
+          "sentence": "The news made him change his plan.",
+          "translation": "그 소식은 그가 계획을 바꾸게 했다.",
+          "note": "to change가 아니라 change를 씁니다."
+        }
+      ],
+      "tags": [
+        "사역동사",
+        "make",
+        "목적격보어"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0075",
+      "title": "Have 목적어 동사원형",
+      "pattern": "have + 목적어 + 동사원형",
+      "mainSentence": "The teacher had the students discuss the issue.",
+      "translation": "그 선생님은 학생들이 그 쟁점을 토론하게 했다.",
+      "explanation": "사역동사 have는 목적어가 어떤 일을 하게 시킬 때 동사원형을 씁니다.",
+      "grammar": "have + O + V",
+      "examples": [
+        {
+          "sentence": "I had my brother check the document.",
+          "translation": "나는 동생에게 그 문서를 확인하게 했다.",
+          "note": "목적어가 직접 행동을 합니다."
+        }
+      ],
+      "tags": [
+        "사역동사",
+        "have",
+        "목적격보어"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0076",
+      "title": "Let 목적어 동사원형",
+      "pattern": "let + 목적어 + 동사원형",
+      "mainSentence": "The app lets users organize their schedules easily.",
+      "translation": "그 앱은 사용자들이 일정을 쉽게 정리하게 해 준다.",
+      "explanation": "let은 허락의 의미를 가지며 목적격보어로 동사원형을 씁니다.",
+      "grammar": "let + O + V",
+      "examples": [
+        {
+          "sentence": "My parents let me choose my own hobby.",
+          "translation": "부모님은 내가 내 취미를 직접 선택하게 해 주셨다.",
+          "note": "to choose가 아니라 choose입니다."
+        }
+      ],
+      "tags": [
+        "사역동사",
+        "let",
+        "허락"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0077",
+      "title": "Help 목적어 동사원형",
+      "pattern": "help + 목적어 + 동사원형/to부정사",
+      "mainSentence": "Visual aids help students understand abstract ideas.",
+      "translation": "시각 자료는 학생들이 추상적인 생각을 이해하도록 돕는다.",
+      "explanation": "help는 목적격보어로 동사원형과 to부정사를 모두 쓸 수 있습니다.",
+      "grammar": "help + O + (to) V",
+      "examples": [
+        {
+          "sentence": "The guide helped us find the station.",
+          "translation": "그 안내자는 우리가 역을 찾도록 도와주었다.",
+          "note": "to find도 가능하지만 동사원형이 흔합니다."
+        }
+      ],
+      "tags": [
+        "준사역동사",
+        "help",
+        "목적격보어"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0078",
+      "title": "Get 목적어 to부정사",
+      "pattern": "get + 목적어 + to부정사",
+      "mainSentence": "The coach got the players to focus on teamwork.",
+      "translation": "그 코치는 선수들이 팀워크에 집중하게 했다.",
+      "explanation": "get은 목적어가 ~하도록 만들거나 설득한다는 의미로 to부정사를 씁니다.",
+      "grammar": "get + O + to V",
+      "examples": [
+        {
+          "sentence": "She got her friend to join the club.",
+          "translation": "그녀는 친구가 그 동아리에 가입하게 했다.",
+          "note": "make와 달리 to부정사를 씁니다."
+        }
+      ],
+      "tags": [
+        "사역표현",
+        "get",
+        "to부정사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0079",
+      "title": "Want 목적어 to부정사",
+      "pattern": "want + 목적어 + to부정사",
+      "mainSentence": "Parents want their children to be independent.",
+      "translation": "부모들은 자녀들이 독립적이기를 원한다.",
+      "explanation": "want는 목적어가 ~하기를 원하다는 구조로 자주 쓰입니다.",
+      "grammar": "want + O + to V",
+      "examples": [
+        {
+          "sentence": "The teacher wanted us to explain our answers.",
+          "translation": "선생님은 우리가 답을 설명하기를 원했다.",
+          "note": "목적어 us 뒤에 to부정사가 옵니다."
+        }
+      ],
+      "tags": [
+        "5형식",
+        "want",
+        "to부정사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0080",
+      "title": "Find it 형용사 to부정사",
+      "pattern": "find + it + 형용사 + to부정사",
+      "mainSentence": "I found it hard to concentrate in a noisy room.",
+      "translation": "나는 시끄러운 방에서 집중하는 것이 어렵다는 것을 알았다.",
+      "explanation": "it은 가목적어이고 to concentrate 이하가 진목적어입니다.",
+      "grammar": "find + it + adj + to V",
+      "examples": [
+        {
+          "sentence": "She found it useful to take notes.",
+          "translation": "그녀는 필기하는 것이 유용하다는 것을 알았다.",
+          "note": "to take notes가 진목적어입니다."
+        }
+      ],
+      "tags": [
+        "가목적어",
+        "find",
+        "to부정사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0081",
+      "title": "Make it possible to부정사",
+      "pattern": "make + it + 형용사 + to부정사",
+      "mainSentence": "Technology makes it possible to learn anywhere.",
+      "translation": "기술은 어디서든 배우는 것을 가능하게 한다.",
+      "explanation": "make it possible to V는 ~하는 것을 가능하게 하다는 뜻의 가목적어 구문입니다.",
+      "grammar": "make + it + adj + to V",
+      "examples": [
+        {
+          "sentence": "The internet made it easier to share information.",
+          "translation": "인터넷은 정보를 공유하는 것을 더 쉽게 만들었다.",
+          "note": "it은 to share information을 대신합니다."
+        }
+      ],
+      "tags": [
+        "가목적어",
+        "make",
+        "to부정사"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0082",
+      "title": "Consider 목적어 보어",
+      "pattern": "consider + 목적어 + 형용사/명사",
+      "mainSentence": "Many people consider sleep essential for health.",
+      "translation": "많은 사람들은 수면을 건강에 필수적이라고 여긴다.",
+      "explanation": "consider는 목적어와 목적격보어의 관계가 주어와 보어처럼 이어지는 5형식 동사입니다.",
+      "grammar": "consider + O + C",
+      "examples": [
+        {
+          "sentence": "We consider the decision fair.",
+          "translation": "우리는 그 결정이 공정하다고 여긴다.",
+          "note": "fair가 목적어 the decision을 설명합니다."
+        }
+      ],
+      "tags": [
+        "5형식",
+        "consider",
+        "목적격보어"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0083",
+      "title": "Leave 목적어 보어",
+      "pattern": "leave + 목적어 + 형용사/분사",
+      "mainSentence": "The accident left many people shocked.",
+      "translation": "그 사고는 많은 사람들을 충격받은 상태로 남겼다.",
+      "explanation": "leave O C는 O를 C한 상태로 두다 또는 만들다는 뜻입니다.",
+      "grammar": "leave + O + C",
+      "examples": [
+        {
+          "sentence": "The door was left open.",
+          "translation": "문이 열린 채로 남겨졌다.",
+          "note": "open이 door의 상태를 나타냅니다."
+        }
+      ],
+      "tags": [
+        "5형식",
+        "leave",
+        "상태"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0084",
+      "title": "지각동사 목적어 동사원형/동명사",
+      "pattern": "see/hear/watch + 목적어 + 동사원형/동명사",
+      "mainSentence": "I saw children play in the park.",
+      "translation": "나는 아이들이 공원에서 노는 것을 보았다.",
+      "explanation": "지각동사는 목적어 뒤에 동사원형이나 동명사를 취할 수 있습니다.",
+      "grammar": "see/hear/watch + O + V/V-ing",
+      "examples": [
+        {
+          "sentence": "She heard someone knocking on the door.",
+          "translation": "그녀는 누군가가 문을 두드리고 있는 소리를 들었다.",
+          "note": "동명사는 진행 중인 동작을 강조합니다."
+        }
+      ],
+      "tags": [
+        "지각동사",
+        "5형식",
+        "목적격보어"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0085",
+      "title": "지각동사 수동태",
+      "pattern": "be seen/heard + to부정사",
+      "mainSentence": "The children were seen to enter the building.",
+      "translation": "그 아이들이 건물에 들어가는 것이 목격되었다.",
+      "explanation": "지각동사가 수동태가 되면 목적격보어였던 동사원형 앞에 to가 붙습니다.",
+      "grammar": "be seen/heard/watched + to V",
+      "examples": [
+        {
+          "sentence": "He was heard to sing in the room.",
+          "translation": "그가 방에서 노래하는 것이 들렸다.",
+          "note": "수동태에서는 to sing을 씁니다."
+        }
+      ],
+      "tags": [
+        "지각동사",
+        "수동태",
+        "to부정사"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0086",
+      "title": "감정분사 interested in",
+      "pattern": "사람 + be interested in + 명사/동명사",
+      "mainSentence": "Many teenagers are interested in creating digital content.",
+      "translation": "많은 십 대들은 디지털 콘텐츠를 만드는 데 관심이 있다.",
+      "explanation": "사람이 감정을 느끼면 주로 과거분사형 interested를 씁니다.",
+      "grammar": "person + be interested in + N/V-ing",
+      "examples": [
+        {
+          "sentence": "She is interested in learning psychology.",
+          "translation": "그녀는 심리학을 배우는 데 관심이 있다.",
+          "note": "interesting은 흥미를 유발하는 대상에 씁니다."
+        }
+      ],
+      "tags": [
+        "분사",
+        "감정형용사",
+        "interested"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0087",
+      "title": "감정분사 surprising/surprised",
+      "pattern": "사물 + surprising / 사람 + surprised",
+      "mainSentence": "The result was surprising, and the students were surprised.",
+      "translation": "그 결과는 놀라웠고 학생들은 놀랐다.",
+      "explanation": "현재분사는 감정을 일으키는 대상을, 과거분사는 감정을 느끼는 사람을 나타냅니다.",
+      "grammar": "thing + V-ing / person + p.p.",
+      "examples": [
+        {
+          "sentence": "The movie was boring, so I was bored.",
+          "translation": "그 영화는 지루해서 나는 지루했다.",
+          "note": "대상과 감정의 주체를 구별해야 합니다."
+        }
+      ],
+      "tags": [
+        "분사",
+        "감정형용사",
+        "현재분사"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0088",
+      "title": "분사구문 기본형",
+      "pattern": "V-ing, 주어 + 동사",
+      "mainSentence": "Walking along the river, I found a quiet cafe.",
+      "translation": "강을 따라 걷다가 나는 조용한 카페를 발견했다.",
+      "explanation": "분사구문은 시간, 이유, 조건, 동시동작 등을 간결하게 표현합니다.",
+      "grammar": "V-ing, S + V",
+      "examples": [
+        {
+          "sentence": "Feeling tired, he went to bed early.",
+          "translation": "피곤해서 그는 일찍 잠자리에 들었다.",
+          "note": "Because he felt tired로 바꿀 수 있습니다."
+        }
+      ],
+      "tags": [
+        "분사구문",
+        "현재분사",
+        "부사절축약"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0089",
+      "title": "완료 분사구문",
+      "pattern": "Having + 과거분사, 주어 + 동사",
+      "mainSentence": "Having finished her homework, she went for a walk.",
+      "translation": "숙제를 끝낸 후 그녀는 산책하러 갔다.",
+      "explanation": "분사구문의 동작이 주절보다 앞설 때 Having p.p.를 씁니다.",
+      "grammar": "Having p.p., S + V",
+      "examples": [
+        {
+          "sentence": "Having read the book, I understood the lecture better.",
+          "translation": "그 책을 읽고 나서 나는 그 강의를 더 잘 이해했다.",
+          "note": "읽은 일이 이해한 일보다 먼저 일어났습니다."
+        }
+      ],
+      "tags": [
+        "분사구문",
+        "완료분사",
+        "having pp"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0090",
+      "title": "With 목적어 보어",
+      "pattern": "with + 목적어 + 형용사/분사/전치사구",
+      "mainSentence": "She sat quietly with her eyes closed.",
+      "translation": "그녀는 눈을 감은 채 조용히 앉아 있었다.",
+      "explanation": "with O C는 O가 C한 상태로라는 부대상황을 나타냅니다.",
+      "grammar": "with + O + C",
+      "examples": [
+        {
+          "sentence": "He studied with the window open.",
+          "translation": "그는 창문을 열어 둔 채 공부했다.",
+          "note": "open이 window의 상태를 나타냅니다."
+        }
+      ],
+      "tags": [
+        "부대상황",
+        "with",
+        "분사"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0091",
+      "title": "주격보어 to부정사",
+      "pattern": "주어 + be동사 + to부정사",
+      "mainSentence": "The best way to learn is to teach others.",
+      "translation": "배우는 가장 좋은 방법은 다른 사람들을 가르치는 것이다.",
+      "explanation": "to부정사가 be동사 뒤에서 주격보어 역할을 합니다.",
+      "grammar": "S + be + to V",
+      "examples": [
+        {
+          "sentence": "My goal is to read one book a week.",
+          "translation": "나의 목표는 일주일에 한 권의 책을 읽는 것이다.",
+          "note": "to read가 goal의 내용을 설명합니다."
+        }
+      ],
+      "tags": [
+        "to부정사",
+        "보어",
+        "2형식"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "suneung_basic_0092",
+      "title": "목적격보어 과거분사",
+      "pattern": "have/get + 목적어 + 과거분사",
+      "mainSentence": "I had my bike repaired yesterday.",
+      "translation": "나는 어제 내 자전거를 수리되게 했다.",
+      "explanation": "목적어가 행위를 당하는 관계이면 과거분사를 목적격보어로 씁니다.",
+      "grammar": "have/get + O + p.p.",
+      "examples": [
+        {
+          "sentence": "She got her hair cut.",
+          "translation": "그녀는 머리를 잘랐다.",
+          "note": "hair가 잘리는 대상이므로 cut이 과거분사처럼 쓰입니다."
+        }
+      ],
+      "tags": [
+        "5형식",
+        "과거분사",
+        "사역"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0093",
+      "title": "부정어 도치 Never",
+      "pattern": "Never + 조동사 + 주어 + 동사",
+      "mainSentence": "Never have I seen such a beautiful sunset.",
+      "translation": "나는 그렇게 아름다운 일몰을 본 적이 결코 없다.",
+      "explanation": "부정어가 문두에 오면 주어와 조동사가 도치됩니다.",
+      "grammar": "Never + aux + S + V",
+      "examples": [
+        {
+          "sentence": "Never did she complain about the work.",
+          "translation": "그녀는 그 일에 대해 결코 불평하지 않았다.",
+          "note": "일반동사는 do/does/did를 사용해 도치합니다."
+        }
+      ],
+      "tags": [
+        "도치",
+        "부정어",
+        "never"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0094",
+      "title": "부정어구 도치 Little",
+      "pattern": "Little + 조동사 + 주어 + 동사",
+      "mainSentence": "Little did he know that the choice would change his life.",
+      "translation": "그는 그 선택이 자신의 삶을 바꿀 것이라는 것을 거의 알지 못했다.",
+      "explanation": "little이 거의 ~않다는 부정 의미로 문두에 오면 도치가 일어납니다.",
+      "grammar": "Little + aux + S + V",
+      "examples": [
+        {
+          "sentence": "Little did we expect such a result.",
+          "translation": "우리는 그런 결과를 거의 예상하지 못했다.",
+          "note": "부정 의미가 강한 표현입니다."
+        }
+      ],
+      "tags": [
+        "도치",
+        "부정어",
+        "little"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0095",
+      "title": "Only after 도치",
+      "pattern": "Only after + 명사/절 + 조동사 + 주어 + 동사",
+      "mainSentence": "Only after the exam did I realize my mistake.",
+      "translation": "시험이 끝난 후에야 나는 내 실수를 깨달았다.",
+      "explanation": "only가 부사구를 강조하며 문두에 오면 주절에서 도치가 일어납니다.",
+      "grammar": "Only after + phrase/clause + aux + S + V",
+      "examples": [
+        {
+          "sentence": "Only when we work together can we solve the problem.",
+          "translation": "우리가 함께 노력할 때에만 그 문제를 해결할 수 있다.",
+          "note": "only가 이끄는 부사절 뒤의 주절이 도치됩니다."
+        }
+      ],
+      "tags": [
+        "도치",
+        "only",
+        "강조"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0096",
+      "title": "It is 강조구문",
+      "pattern": "It is/was + 강조어 + that + 나머지",
+      "mainSentence": "It was curiosity that led him to science.",
+      "translation": "그를 과학으로 이끈 것은 바로 호기심이었다.",
+      "explanation": "It is ... that은 문장의 특정 요소를 강조합니다.",
+      "grammar": "It is/was + X + that + S + V",
+      "examples": [
+        {
+          "sentence": "It was in 2020 that the project began.",
+          "translation": "그 프로젝트가 시작된 것은 바로 2020년이었다.",
+          "note": "시간, 장소, 주어, 목적어 등을 강조할 수 있습니다."
+        }
+      ],
+      "tags": [
+        "강조구문",
+        "it that",
+        "수능"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0097",
+      "title": "Not until 도치",
+      "pattern": "Not until + 명사/절 + 조동사 + 주어 + 동사",
+      "mainSentence": "Not until I read the ending did I understand the title.",
+      "translation": "결말을 읽고 나서야 나는 제목을 이해했다.",
+      "explanation": "not until이 문두에 오면 주절에서 도치가 일어납니다.",
+      "grammar": "Not until + clause/phrase + aux + S + V",
+      "examples": [
+        {
+          "sentence": "Not until midnight did the noise stop.",
+          "translation": "자정이 되어서야 그 소음이 멈췄다.",
+          "note": "주절의 did the noise stop이 도치입니다."
+        }
+      ],
+      "tags": [
+        "도치",
+        "not until",
+        "강조"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "suneung_basic_0098",
+      "title": "Than expected 생략구문",
+      "pattern": "비교급 + than expected",
+      "mainSentence": "The problem was easier than expected.",
+      "translation": "그 문제는 예상했던 것보다 쉬웠다.",
+      "explanation": "than expected는 than it was expected to be에서 일부가 생략된 표현입니다.",
+      "grammar": "comparative + than expected",
+      "examples": [
+        {
+          "sentence": "The trip took longer than planned.",
+          "translation": "그 여행은 계획했던 것보다 더 오래 걸렸다.",
+          "note": "planned 앞뒤의 반복되는 말이 생략되었습니다."
+        }
+      ],
+      "tags": [
+        "생략",
+        "비교급",
+        "than expected"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0099",
+      "title": "삽입절 I think",
+      "pattern": "주어 + 삽입절 + 동사",
+      "mainSentence": "This idea, I think, can solve the problem.",
+      "translation": "내 생각에 이 아이디어는 그 문제를 해결할 수 있다.",
+      "explanation": "I think, I believe 같은 표현은 문장 중간에 삽입되어 말하는 사람의 판단을 나타냅니다.",
+      "grammar": "S, I think/believe, V",
+      "examples": [
+        {
+          "sentence": "The answer, I believe, is in the first paragraph.",
+          "translation": "내 생각에 그 답은 첫 번째 문단에 있다.",
+          "note": "삽입절을 제외해도 문장의 핵심 구조는 유지됩니다."
+        }
+      ],
+      "tags": [
+        "삽입절",
+        "독해",
+        "수능"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "suneung_basic_0100",
+      "title": "동격의 that",
+      "pattern": "추상명사 + that + 완전한 절",
+      "mainSentence": "The fact that language changes over time is natural.",
+      "translation": "언어가 시간이 지나며 변한다는 사실은 자연스럽다.",
+      "explanation": "that절이 앞의 추상명사의 내용을 설명하면 동격의 that입니다.",
+      "grammar": "N(fact/idea/news/belief) + that S + V",
+      "examples": [
+        {
+          "sentence": "The idea that failure can teach us is important.",
+          "translation": "실패가 우리를 가르칠 수 있다는 생각은 중요하다.",
+          "note": "that절은 idea의 내용을 설명합니다."
+        }
+      ],
+      "tags": [
+        "동격",
+        "that절",
+        "명사절"
+      ],
+      "difficulty": 2
+    }
+  ]
+}
